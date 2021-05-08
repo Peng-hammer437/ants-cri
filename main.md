@@ -1,5 +1,4 @@
-## 
-```Rank 5 + 4
+```### Rank 5 + 4```
 
 ### `Officers`
 | Rank  | Name | Power | H-level |
