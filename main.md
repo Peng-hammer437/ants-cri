@@ -32,7 +32,6 @@ Officers
 | `2`  | `WombCannon`  | 15  |7|
 | `2`  | `Bury`        | 15  | 8|
 | `2`  | `Bucky`       | 30  | 8|
-
 | `2`  | `Antenna`     | 11  | 7|
 | `2`  | `1F61`        | 10  | 7|
 | `2`  | `Budhabi`     | 10  | 7|
