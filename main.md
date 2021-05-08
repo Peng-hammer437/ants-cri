@@ -32,6 +32,7 @@ Officers
 | `2`  | `hello bean`  | 14  |  8|
 | `2`  | `Skyfalls`  | 14  |7|
 | `2`  | `Antenna`  | 11  | 7|
+| `2`  | `1F61`  | 10  | 7|
 
 ## 
 ### `Rank 1:`
