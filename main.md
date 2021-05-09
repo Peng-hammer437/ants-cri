@@ -50,6 +50,8 @@ Officers
 | `2`  | `Jacobik`     | 11  | 8 | N | Y|
 | `2`  | `CrimsonAnt`  | 15  | 8 | N | Y|
 | `2`  | `5BAB`        | 15  | 8 | N | Y|
+| `2`  | `Nimbatur`    | 15  | 6 | N | I|
+| `2`  | `24A1`        | 11  | 5 | N | I|
 
 
 
