@@ -10,7 +10,6 @@ Officers
 | `4`  | `TDOG13MC`   |  32 | 7 | N| Y|
 | `4`  | `Sniped`     | 47  | 9 | Y| Y|
 | `4`  | `Poom Sauce` | 33  | 7 | N| Y|
-| `4`  | `seraph`     |  24 | 7 | N| Y|
 | `4`  | `Bucky`      |  73 | 10| Y| Y|
 
 
@@ -18,7 +17,7 @@ Officers
 ### `Rank 3:`
 | Rank  | Name | Power | H-level | Discord | AtBase |
 | ------------- | ------------- | ------------- |:-------------: |:-------------: |:-------------: |
-
+| `3`  | `seraph`     |  24 | 7 | N| Y|
 
 ## 
 ### `Rank 2:` 
