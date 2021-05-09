@@ -34,7 +34,7 @@ Officers
 | `2`  | `Budhabi`     | 25  | 8 | N | Y|
 | `2`  | `Oti`         | 28  | 8 | Y | Y|
 | `2`  | `eskabetxe`   | 15  | 7 | N | Y|
-| `2`  | `TheOnlyMojoe`| 25  | 9 | N | I|
+| `2`  | `TheOnlyMojoe`| 25  | 9 | N | Y|
 | `2`  | `Clinkz`      | 31  | 7 | Y | Y|
 | `2`  | `WidowWalker` | 18  | 6 | Y | Y|
 | `2`  | `WombCannon`  | 44  | 8 | Y | Y|
