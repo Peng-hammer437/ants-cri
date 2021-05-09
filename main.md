@@ -16,7 +16,7 @@ Officers
 
 ##
 ### `Rank 3:`
-| Rank  | Name | Power | H-level | Discord |
+| Rank  | Name | Power | H-level | Discord | AtBase |
 | ------------- | ------------- | ------------- |:-------------: |:-------------: |:-------------: |
 
 
@@ -25,7 +25,7 @@ Officers
 ```
 (memo: power > 10 K)
 ```
-| Rank  | Name | Power | H-level | Discord |
+| Rank  | Name | Power | H-level | Discord | AtBase |
 | ------------- | ------------- | ------------- |:-------------: |:-------------: |:-------------: |
 | `2`  | `0004`        | 32  | 8 | N | Y|
 | `2`  | `Skyfalls`    | 39  | 7 | N | Y|
@@ -59,7 +59,7 @@ Officers
 
 ## 
 ### `Rank 1:`
-| Rank  | Name | Power | H-level | Discord |
+| Rank  | Name | Power | H-level | Discord | AtBase |
 | ------------- | ------------- | ------------- |:-------------: |:-------------: |:-------------: |
 | `1`  | `MisterGamer`  | 0  | 0 |  Y | Y|
 | `1`  | `toothless`    | 0  | 0 |  N | Y|
