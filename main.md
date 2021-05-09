@@ -52,7 +52,7 @@ Officers
 | `2`  | `5BAB`        | 15  | 8 | N | Y|
 | `2`  | `Nimbatur`    | 15  | 6 | N | I|
 | `2`  | `24A1`        | 11  | 5 | N | I|
-| `2`  | `AntGirl`     | 19  | 8 | N | I|
+| `2`  | `AntGirl`     | 19  | 8 | N | Y|
 
 
 
