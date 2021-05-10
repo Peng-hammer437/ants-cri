@@ -52,7 +52,6 @@ Officers
 | `2`  | `Nimbatur`    | 15  | 6 | N | II|
 | `2`  | `24A1`        | 11  | 5 | N | I|
 | `2`  | `AntGirl`     | 19  | 8 | N | Y|
-
 | `2`  | `9finger1der` | 10  | ? | ? | ?|
 | `2`  | `Kupolandia`  | 22  | ? | ? | ?|
 | `2`  | `MisterGamer` | 10  | ? | Y | Y|
