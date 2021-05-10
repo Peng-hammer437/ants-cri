@@ -5,12 +5,13 @@ Officers
 ```
 | Rank  | Name | Power | H-level | Discord | AtBase |
 | :-------------: | :------------- | :-------------: |:-------------: |:-------------: |:-------------: |
-| `5`  | `Zauroab`    |  85 | 9 | Y| Y|
-| `4`  | `Grag`       |  44 | 11| Y| Y|
-| `4`  | `TDOG13MC`   |  32 | 7 | N| Y|
-| `4`  | `Sniped`     | 47  | 9 | Y| Y|
-| `4`  | `Poom Sauce` | 33  | 7 | N| Y|
-| `4`  | `Bucky`      |  73 | 10| Y| Y|
+| `5`  | `Zauroab`    |  105 | 9 | Y| Y|
+| `4`  | `Grag`       |  58 | 11| Y| Y|
+| `4`  | `TDOG13MC`   |  37 | 7 | N| Y|
+| `4`  | `Sniped`     | 54  | 9 | Y| Y|
+| `4`  | `Poom Sauce` | 37  | 8 | N| Y|
+| `4`  | `Bucky`      |  83 | 10| Y| Y|
+| `4`  | `WombCannon`  | 59  | 8 | Y | Y|
 
 
 ##
@@ -28,16 +29,15 @@ Officers
 | ------------- | ------------- | ------------- |:-------------: |:-------------: |:-------------: |
 | `2`  | `0004`        | 32  | 8 | N | Y|
 | `2`  | `Skyfalls`    | 39  | 7 | N | Y|
-| `2`  | `Bury`        | 22  | 7 | N | Y|
+| `2`  | `Bury`        | 23  | 7 | N | Y|
 | `2`  | `Antenna`     | 27  | 7 | N | Y|
 | `2`  | `1F61`        | 27  | 8 | N | Y|
 | `2`  | `Budhabi`     | 25  | 8 | N | Y|
-| `2`  | `Oti`         | 28  | 8 | Y | Y|
+| `2`  | `Oti`         | 30  | 8 | Y | Y|
 | `2`  | `eskabetxe`   | 15  | 7 | N | Y|
 | `2`  | `TheOnlyMojoe`| 25  | 9 | N | Y|
-| `2`  | `Clinkz`      | 31  | 7 | Y | Y|
+| `2`  | `Clinkz`      | 38  | 7 | Y | Y|
 | `2`  | `WidowWalker` | 18  | 6 | Y | Y|
-| `2`  | `WombCannon`  | 44  | 8 | Y | Y|
 | `2`  | `kristen`     | 10  | 8 | N | I|
 | `2`  | `Zim`         | 19  | 8 | N | Y|
 | `2`  | `indomius`    | 10  | 7 | Y | Y|
@@ -49,7 +49,7 @@ Officers
 | `2`  | `Jacobik`     | 11  | 8 | N | Y|
 | `2`  | `CrimsonAnt`  | 15  | 8 | N | Y|
 | `2`  | `5BAB`        | 15  | 8 | N | Y|
-| `2`  | `Nimbatur`    | 15  | 6 | N | I|
+| `2`  | `Nimbatur`    | 15  | 6 | N | II|
 | `2`  | `24A1`        | 11  | 5 | N | I|
 | `2`  | `AntGirl`     | 19  | 8 | N | Y|
 
