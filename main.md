@@ -60,6 +60,7 @@ Officers
 | `2`  | `HoneyBunn`   | 79  | ? | ? | ?|
 | `2`  | `Winesinger`  | 39  | ? | ? | ?|
 | `2`  | `Xeraxa23`    | 15  | ? | ? | ?|
+| `2`  | `DaRk3rThenBlack` | 48  | ? | ? | ?|
 
 
 
