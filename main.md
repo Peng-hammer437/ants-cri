@@ -38,7 +38,7 @@ Officers
 | `2`  | `TheOnlyMojoe`| 25  | 9 | Y | Y|
 | `2`  | `Clinkz`      | 38  | 7 | Y | Y|
 | `2`  | `WidowWalker` | 18  | 6 | Y | Y|
-| `2`  | `kristen`     | 10  | 8 | N | I|
+| `2`  | `kristen`     | 10  | 8 | N | II|
 | `2`  | `Zim`         | 19  | 8 | N | Y|
 | `2`  | `indomius`    | 10  | 7 | Y | Y|
 | `2`  | `Eloue`       | 15  | 7 | N | Y|
@@ -50,17 +50,17 @@ Officers
 | `2`  | `CrimsonAnt`  | 15  | 8 | N | Y|
 | `2`  | `5BAB`        | 15  | 8 | N | Y|
 | `2`  | `Nimbatur`    | 15  | 6 | Y | Y|
-| `2`  | `24A1`        | 11  | 5 | N | I|
+| `2`  | `24A1`        | 11  | 5 | N | Y|
 | `2`  | `AntGirl`     | 19  | 8 | N | Y|
-| `2`  | `9finger1der` | 10  | ? | ? | ?|
+| `2`  | `9finger1der` | 10  | ? | ? | Y|
 | `2`  | `Kupolandia`  | 22  | ? | ? | ?|
 | `2`  | `MisterGamer` | 10  | ? | Y | Y|
 | `2`  | `ant king`    | 13  | ? | ? | ?|
-| `2`  | `Money`       | 69  | ? | ? | ?|
-| `2`  | `HoneyBunn`   | 79  | ? | Y | ?|
+| `2`  | `Money`       | 69  | ? | ? | Y|
+| `2`  | `HoneyBunn`   | 79  | ? | Y | Y|
 | `2`  | `Winesinger`  | 39  | ? | ? | ?|
 | `2`  | `Xeraxa23`    | 15  | ? | ? | ?|
-| `2`  | `DaRk3rThenBlack` | 48  | ? | ? | ?|
+| `2`  | `DaRk3rThenBlack` | 48  | ? | ? | Y|
 
 
 
@@ -73,6 +73,7 @@ Officers
 | `1`  | `63EF`         | 0  | 0 |  N | Y|
 | `1`  | `20AE`         | 0  | 0 |  N | Y|
 | `1`  | `0C06`         | 0  | 0 |  N | Y|
+| `1`  | `Ellowynn`     | 0  | 0 |  N | Y|
 ## 
 
 `PS: the power in this talbe is rounded, unit now is set to K, such as: 2 will be 2k`
