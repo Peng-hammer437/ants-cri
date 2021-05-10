@@ -53,7 +53,14 @@ Officers
 | `2`  | `24A1`        | 11  | 5 | N | I|
 | `2`  | `AntGirl`     | 19  | 8 | N | Y|
 
-
+| `2`  | `9finger1der` | 10  | ? | ? | ?|
+| `2`  | `Kupolandia`  | 22  | ? | ? | ?|
+| `2`  | `MisterGamer` | 10  | ? | Y | Y|
+| `2`  | `ant king`    | 13  | ? | ? | ?|
+| `2`  | `Money`       | 69  | ? | ? | ?|
+| `2`  | `HoneyBunn`   | 79  | ? | ? | ?|
+| `2`  | `Winesinger`  | 39  | ? | ? | ?|
+| `2`  | `Xeraxa23`    | 15  | ? | ? | ?|
 
 
 
@@ -63,11 +70,10 @@ Officers
 ### `Rank 1:`
 | Rank  | Name | Power | H-level | Discord | AtBase |
 | ------------- | ------------- | ------------- |:-------------: |:-------------: |:-------------: |
-| `1`  | `MisterGamer`  | 0  | 0 |  Y | Y|
+
 | `1`  | `63EF`         | 0  | 0 |  N | Y|
 | `1`  | `20AE`         | 0  | 0 |  N | Y|
 | `1`  | `0C06`         | 0  | 0 |  N | Y|
-| `1`  | `rodrigo montes d` | 0  | 0 |  N | Y|
 
 ## 
 
