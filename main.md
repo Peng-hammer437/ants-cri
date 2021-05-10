@@ -30,7 +30,7 @@ Officers
 | `2`  | `0004`        | 32  | 8 | N | Y|
 | `2`  | `Skyfalls`    | 39  | 7 | N | Y|
 | `2`  | `Bury`        | 23  | 7 | N | Y|
-| `2`  | `Antenna`     | 27  | 7 | N | Y|
+| `2`  | `Antenna`     | 27  | 7 | Y | Y|
 | `2`  | `1F61`        | 27  | 8 | N | Y|
 | `2`  | `Budhabi`     | 25  | 8 | N | Y|
 | `2`  | `Oti`         | 30  | 8 | Y | Y|
@@ -49,7 +49,7 @@ Officers
 | `2`  | `Jacobik`     | 11  | 8 | N | Y|
 | `2`  | `CrimsonAnt`  | 15  | 8 | N | Y|
 | `2`  | `5BAB`        | 15  | 8 | N | Y|
-| `2`  | `Nimbatur`    | 15  | 6 | N | II|
+| `2`  | `Nimbatur`    | 15  | 6 | Y | Y|
 | `2`  | `24A1`        | 11  | 5 | N | I|
 | `2`  | `AntGirl`     | 19  | 8 | N | Y|
 | `2`  | `9finger1der` | 10  | ? | ? | ?|
@@ -57,7 +57,7 @@ Officers
 | `2`  | `MisterGamer` | 10  | ? | Y | Y|
 | `2`  | `ant king`    | 13  | ? | ? | ?|
 | `2`  | `Money`       | 69  | ? | ? | ?|
-| `2`  | `HoneyBunn`   | 79  | ? | ? | ?|
+| `2`  | `HoneyBunn`   | 79  | ? | Y | ?|
 | `2`  | `Winesinger`  | 39  | ? | ? | ?|
 | `2`  | `Xeraxa23`    | 15  | ? | ? | ?|
 | `2`  | `DaRk3rThenBlack` | 48  | ? | ? | ?|
