@@ -69,11 +69,9 @@ Officers
 ### `Rank 1:`
 | Rank  | Name | Power | H-level | Discord | AtBase |
 | ------------- | ------------- | ------------- |:-------------: |:-------------: |:-------------: |
-
 | `1`  | `63EF`         | 0  | 0 |  N | Y|
 | `1`  | `20AE`         | 0  | 0 |  N | Y|
 | `1`  | `0C06`         | 0  | 0 |  N | Y|
-
 ## 
 
 `PS: the power in this talbe is rounded, unit now is set to K, such as: 2 will be 2k`
