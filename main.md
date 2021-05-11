@@ -42,7 +42,7 @@ Officers
 | `2`  | `indomius`    |  19   |    7    |    👍   |    Y   |-
 | `2`  | `Mr Johnson`  |  33   |    7    |    N    |    Y   |-
 | `2`  | `Kehr(R)`     |  35   |    8    |    N    |    Y   |
-| `2`  | `Lazy Prince` |  18   |    8    |    N    |    Y   |
+| `2`  | `Lazy Prince` |  18   |    8    |    👍   |    Y   |
 | `2`  | `Yskele`      |  23   |    7    |    👍   |    Y   |-
 | `2`  | `Jacobik`     |  21   |    8    |    N    |    Y   |
 | `2`  | `1F61`        |  47   |    9    |    N    |    Y   |
