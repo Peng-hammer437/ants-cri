@@ -5,21 +5,23 @@ Officers
 ```
 | Rank | Name         | Power | H-level | Discord | AtBase |
 | :--: | :----------- | :---: | :-----: | :-----: | :----: |
-| `5`  | `Zauroab`    |  105  |    9    |    Y    |    Y   |
-| `4`  | `Grag`       |  58   |    11   |    Y    |    Y   |
-| `4`  | `TDOG13MC`   |  37   |    7    |    N    |    Y   |
-| `4`  | `Sniped`     |  54   |    9    |    Y    |    Y   |
-| `4`  | `Poom Sauce` |  37   |    8    |    N    |    Y   |
-| `4`  | `Bucky`      |  83   |    10   |    Y    |    Y   |
-| `4`  | `WombCannon` |  59   |    8    |    Y    |    Y   |
+| `5`  | `Zauroab`    |  171  |    10   |    Y    |    Y   |
+| `4`  | `Grag`       |  105  |    12   |    Y    |    Y   |
+| `4`  | `TDOG13MC`   |  44   |    7    |    N    |    Y   |
+| `4`  | `Sniped`     |  85   |    9    |    Y    |    Y   |
+
+| `4`  | `Bucky`      |  148  |    12   |    Y    |    Y   |
+| `4`  | `WombCannon` |  106  |    9    |    Y    |    Y   |
 
 
 ##
 ### `Rank 3:`
 | Rank | Name         | Power | H-level | Discord | AtBase |
 | :--: | :----------- | :---: | :-----: | :-----: | :----: |
-| `3`  | `seraph`     |  24   |    7    |    N    |    Y   | 
-| `3`  | `HoneyBunn`  |  79   |    ?    |    Y    |    Y   |
+| `3`  | `~~seraph~~`     |  24   |    7    |    N    |    Y   | 
+| `3`  | `HoneyBunn`  |  117  |    13   |    Y    |    Y   |
+| `3`  | `Poom Sauce` |  52   |    8    |    N    |    Y   |
+| `3`  | `Nimbatur`   |  63   |    7    |    Y    |    Y   | 
 
 ## 
 ### `Rank 2:` 
@@ -50,7 +52,6 @@ Officers
 | `2`  | `Jacobik`     |  11   |    8    |    N    |    Y|
 | `2`  | `CrimsonAnt`  |  15   |    8    |    N    |    Y|
 | `2`  | `5BAB`        |  15   |    8    |    N    |    Y|
-| `2`  | `Nimbatur`    |  15   |    6    |    Y    |    Y|
 | `2`  | `24A1`        |  11   |    5    |    N    |    Y|
 | `2`  | `AntGirl`     |  19   |    8    |    N    |    Y|
 | `2`  | `9finger1der` |  10   |    ?    |    ?    |    Y|
