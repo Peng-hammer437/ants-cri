@@ -52,7 +52,7 @@ Officers
 | `2`  | `Money`       |  117  |    11   |    ?    |    Y   |
 | `2`  | `Winesinger`  |  72   |    12   |    👍   |    Y   |
 | `2`  | `Xeraxa23`    |  53   |    7    |    ?    |    Y   |
-| `2`  | `DaRk3rTh...` |  105  |    10   |    ?    |    Y   |
+| `2`  | `DaRk3rTh...` |  105  |    10   |    👍   |    Y   |
 | `2`  | `seraph`      |  41   |    7    |    N    |    Y   |
 | `2`  | `AbugsLife`   |  79   |    11   |    👍   |    Y   |
 | `2`  | `Hello People`|  78   |    11   |    ?    |    Y   |
